@@ -1,7 +1,7 @@
-# hecto
+# Hecto
 
 Text editor written in Rust  
-[GRATE tutorial](http://www.philippflenker.com/hecto/)  
+Grate tutorial: [Hecto: Build your own text editor in Rust](http://www.philippflenker.com/hecto/)  
 wrote this for practice  
 
 ## ToDo
